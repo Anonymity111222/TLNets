@@ -8,9 +8,9 @@ we propose a novel plan for the designing of networks' architecture based on tra
 
 
 # Code
-We mainly refer the code from [SCINet]([cure-lab/SCINet: The GitHub repository for the paper: “Time Series is a Special Sequence: Forecasting with Sample Convolution and Interaction“. (NeurIPS 2022)](https://github.com/cure-lab/SCINet)).
+We mainly refer the code from [SCINet](https://github.com/cure-lab/SCINet).
 
-The data could download by following the instruction in [Autoformer]([thuml/Autoformer: About Code release for "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting" (NeurIPS 2021), https://arxiv.org/abs/2106.13008 (github.com)](https://github.com/thuml/Autoformer))
+The data could download by following the instruction in [Autoformer](https://github.com/thuml/Autoformer)
 
 You could run the run_ETTh.py to execute our code.
 
